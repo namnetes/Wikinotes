@@ -61,3 +61,31 @@ Saisisez une date de naissance :
 Finalisez l'inscription :
 
 ![Image Discord](discord_8.png)
+
+## Première connexion à Midjourney
+
+Accédez à l'adresse URL [https://www.midjourney.com/](https://www.midjourney.com/). Avant de commencer pense à couper votre micro !
+
+En bas à gauche de l'écran vous trouvez quelques icones dont celle concernant le micro :
+
+![Image Discord](discord_9.png)
+
+Ensuite, veuillez cliquer sur l'une des options vous permettant d'accéder à un salon réservé aux néophytes (nouveaux arrivants).
+
+![Image Discord](discord_10.png)
+
+Ici, j'ai choisi **newbies-29**
+
+Vous pouvez observer que les échanges dans ce salon sont très significatifs et que vous n'êtes pas seul. Vous avez la possibilité d'explorer et d'accéder à l'ensemble des créations des membres connectés, de la même manière qu'ils ont accès aux vôtres.
+
+## Création d'un serveur Discord personnel 
+
+## La première image généré
+
+Voici le prompt utilisé ayant permis d'obtenir ce résultat qui ne correspondait pas trop à mes attentes :
+
+<div style="border-radius: 10px; background-color: #ffffcc; padding: 10px; color: #000000;">
+<strong>Yosemite Sam</strong>, the mainframe support guru, is sitting at a desk, surrounded by cables, screens, and computer peripherals. He is coding and fixing software bugs, and he looks focused. Behind him, a window opens onto a fantasy landscape. The landscape is composed of snow - capped mountains, lush forests, and flying dragons. The image is colorful and vibrant.
+</div>
+
+
