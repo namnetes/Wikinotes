@@ -80,7 +80,9 @@ Vous pouvez observer que les échanges dans ce salon sont très significatifs et
 
 ## Création d'un serveur Discord personnel 
 
-Ne perdons pas de temps... clique sur le symbole plus dans lequel s'intègre un point d'exclamation :
+Le principal avantage d'un serveur personnel réside naturellement dans sa capacité à vous préserver d'être submergé par les créations de tous les autres utilisateurs du salon auquel vous êtes connecté.
+
+Cliquez sur le symbole plus :
 
 ![Image Discord](discord_11.png)
 
@@ -124,12 +126,38 @@ Ici, vous serez donc seul et il sera bien plus aisé de retrouver vos créations
 
 ## Ma première image généré
 
+Au bas de l'écran, veuillez entrer /imagine dans la ligne, et vous découvrirez une liste immédiatement en dessus qui offre une fonction d'auto-complétion avec des suggestions qui se réduisent à chaque lettre que vous tapez :
 
+![Image Discord](discord_21.png)
 
-Voici le prompt utilisé ayant permis d'obtenir ce résultat qui ne correspondait pas trop à mes attentes :
+Validez pour afficher le prompt où vous pourrez saisir **en anglais** vos instructions à Midjourney afin qu'il crée une image conformément à vos directives.
+
+![Image Discord](discord_22.png)
+
+Voici une première tentative qui n'a pas donné le résultat escompté. Il semble, déjà, que Midjourney ne soit pas familier avec les Looney Tunes.
+
+Le prompt, en anglais :
 
 <div style="border-radius: 10px; background-color: #ffffcc; padding: 10px; color: #000000;">
 <strong>Yosemite Sam</strong>, the mainframe support guru, is sitting at a desk, surrounded by cables, screens, and computer peripherals. He is coding and fixing software bugs, and he looks focused. Behind him, a window opens onto a fantasy landscape. The landscape is composed of snow - capped mountains, lush forests, and flying dragons. The image is colorful and vibrant.
 </div>
 
+<br>Les résultats<br>
 
+![Image Discord](discord_23.png)
+
+Midjourney propose systématiquement quatre options, chaque option étant accompagnée de deux séries de choix, notées de U1 à U4 et de V1 à V4. Lorsque vous choisissez l'une des options Ux, Midjourney vous présente de nouvelles options pour l'image en cours. En revanche, en optant pour l'une des options Vx, vous pouvez demander une variation de l'image, et Midjourney vous proposera alors quatre nouvelles images du même style.
+
+![Image Discord](discord_24.png)
+
+L'icône située à l'extrême droite, représentant deux flèches s'enroulant dans un cercle, permet de demander à Midjourney de créer quatre nouvelles images distinctes, toujours en se basant sur le texte de votre prompt saisi précédemment.
+
+## Utilisation d'une image de référence
+
+L'idée consiste à fournir à Midjourney une image de référence en plus d'un texte d'instructions, tout en précisant le poids de cette image dans les directives.
+
+Midjourney reconnaît les formats d'image suivants : png, gif et jpg.
+
+Je rechercheune image sur Internet et je copie le lien d'accès dans le presse papier Windows :
+
+![Image Discord](discord_25.png)
