@@ -80,7 +80,51 @@ Vous pouvez observer que les échanges dans ce salon sont très significatifs et
 
 ## Création d'un serveur Discord personnel 
 
-## La première image généré
+Ne perdons pas de temps... clique sur le symbole plus dans lequel s'intègre un point d'exclamation :
+
+![Image Discord](discord_11.png)
+
+Créer le mien :
+
+![Image Discord](discord_12.png)
+
+Pour mes amis et moi :
+
+![Image Discord](discord_13.png)
+
+Donnez un nom à votre serveur
+
+![Image Discord](discord_14.png)
+
+Voilà votre serveur est créé. 
+
+![Image Discord](discord_15.png)
+
+Maintenant allez dans le serveur de Midjouney en cliquant sur l'icone :
+
+![Image Discord](discord_16.png)
+
+Affichez la liste des membres :
+
+![Image Discord](discord_17.png)
+
+Cliquez sur le bot de Midjourney pour l'ajouter à votre serveur :
+
+![Image Discord](discord_18.png)
+
+Cliquez sur le bouton **Ajouter au serveur**
+
+![Image Discord](discord_19.png)
+
+Dans la liste déroulante vous sélectionnez le nom de votre serveur puis vous confirmez les paramètres standard avant de procéder de cliquez sur le bouton "Aller à votre serveur xxxxx".
+
+![Image Discord](discord_20.png)
+
+Ici, vous serez donc seul et il sera bien plus aisé de retrouver vos créations. De plus, vous serez le seul à avoir accès à celles-ci, ainsi que toute personne avec laquelle vous partagerez l'autorisation d'accès.
+
+## Ma première image généré
+
+
 
 Voici le prompt utilisé ayant permis d'obtenir ce résultat qui ne correspondait pas trop à mes attentes :
 
